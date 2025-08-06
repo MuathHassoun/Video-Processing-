@@ -11,7 +11,7 @@ GitHub: [Profile](https://github.com/MuathHassoun)
 
 > Real-time camera filters using Python, OpenCV, and CustomTkinter.
 
-![App Start](assets/control.png)
+![App Start](assets/controll.png)
 
 ![Normal Mode](assets/normal.png)
 
