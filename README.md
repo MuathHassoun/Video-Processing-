@@ -8,6 +8,7 @@ Computer Engineer and Software Developer
 
 GitHub: [Profile](https://github.com/MuathHassoun)
 
+
 > Real-time camera filters using Python, OpenCV, and CustomTkinter.
 
 ![App Screenshot](assets/control.png)
