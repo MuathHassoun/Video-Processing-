@@ -13,9 +13,9 @@ GitHub: [Profile](https://github.com/MuathHassoun)
 
 ![App Start](assets/controll.png)
 
-![Normal Mode](assets/normal.png)
-
-![Advance Mode](assets/advance.png)
+| ![Normal Mode](assets/normal.png) | ![Advance Mode](assets/advance.png) |
+|:-------------------------------:|:----------------------------------:|
+| Normal Mode                    | Advance Mode                      |
 
 ---
 
