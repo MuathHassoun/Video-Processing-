@@ -1,14 +1,19 @@
 # 🎥 Video Processing GUI
 
-##👨‍💻 Author
+## 👨‍💻 Author
+
 Muath Hassoun
+
 Computer Engineer and Software Developer
-GitHub: ![Profile](https://github.com/MuathHassoun)
+
+GitHub: [Profile](https://github.com/MuathHassoun)
 
 > Real-time camera filters using Python, OpenCV, and CustomTkinter.
 
 ![App Screenshot](assets/control.png)
+
 ![Normal Mode](assets/normal.png)
+
 ![Advance Mode](assets/advance.png)
 
 ---
